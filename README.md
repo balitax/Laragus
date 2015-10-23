@@ -1,0 +1,2 @@
+# Laragus
+Proyek Belajar Laravel  
